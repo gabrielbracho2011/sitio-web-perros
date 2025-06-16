@@ -1,0 +1,15 @@
+.elemento-bloque{
+    background-color: aqua;
+}
+
+.elemento-linea{
+    background-color: yellowgreen;
+}
+
+.imagen-zoro{
+    border: 2px solid black;
+}
+
+h5{
+    margin: 0;
+}

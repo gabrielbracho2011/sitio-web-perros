@@ -1,0 +1,52 @@
+/*Selectores*/
+h1 {
+    color: blue;
+}
+
+h2 {
+    color: brown;
+}
+
+h3 {
+    color: goldenrod;
+}
+
+ol li {
+    color: navy;
+}
+
+/*Clase*/
+.color-zoro {
+    color: rgb(45, 163, 57);
+}
+
+.caja {
+    width: 40%;
+    height: 95px;
+    background-color: lemonchiffon;
+    border: 2px solid blue;
+    padding-left: 150px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    /*margin: 50px 100px 50px 100px;*/
+}
+
+
+/*Id*/
+#color-raza {
+    color: blueviolet;
+}
+
+#color-lista {
+    color: lightslategray;
+}
+
+#color-pitbull {
+    color: tomato;
+}
+
+#color-doberman {
+    color: royalblue;
+}
