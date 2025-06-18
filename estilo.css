@@ -33,6 +33,21 @@ ol li {
     /*margin: 50px 100px 50px 100px;*/
 }
 
+.fondocolor-zoro{
+    background-color: chocolate;
+}
+
+.fondocolor-sam{
+    background-color: rgb(35, 42, 139);
+}
+
+.fondocolor-doberman{
+    background-color: rgb(114, 133, 235);
+}
+
+.color-titulo{
+    background-color: rgb(181, 245, 210);
+}
 
 /*Id*/
 #color-raza {
