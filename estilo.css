@@ -1,14 +1,19 @@
-*{
+* {
     margin: 0;
     padding: 0;
+    box-sizing: 0;
 }
+
 /*Selectores*/
 h1 {
     color: blue;
+    text-align: center;
+    margin-bottom: 20px;
 }
 
 h2 {
     color: brown;
+    text-align: center;
 }
 
 h3 {
@@ -22,6 +27,15 @@ ol li {
 /*Clase*/
 .color-zoro {
     color: rgb(45, 163, 57);
+    text-align: center;
+}
+
+.caja-zoro {
+    margin-left: 20px;
+}
+
+.caja-sam {
+    margin-left: 20px;
 }
 
 .caja {
@@ -37,20 +51,20 @@ ol li {
     /*margin: 50px 100px 50px 100px;*/
 }
 
-.fondocolor-zoro{
-    background-color: chocolate;
-}
-
-.fondocolor-sam{
-    background-color: rgb(35, 42, 139);
-}
-
-.fondocolor-doberman{
+.fondocolor-doberman {
     background-color: rgb(114, 133, 235);
 }
 
-.color-titulo{
+.color-titulo {
     background-color: rgb(181, 245, 210);
+}
+
+
+.dm-sans-letra {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 /*Id*/
